@@ -6,4 +6,4 @@ I will upload multiple revisions of it in the future.
 
 Please feel free to modify my file:)
 
-![alt text]()
+![alt text](https://github.com/lilcommieblyat/PowerHAT-for-Raspberry-Pi/blob/master/preview.PNG)
